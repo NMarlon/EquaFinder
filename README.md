@@ -1,0 +1,2 @@
+# EquaFinder
+ Encontrador de Função
